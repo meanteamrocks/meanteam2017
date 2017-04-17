@@ -1,1 +1,2 @@
-/Users/tessakriesel/www/meanteam2017/robots-dev.txt
+User-agent: *
+Disallow: /
